@@ -5,7 +5,8 @@ title: "Ben's musings on life"
 description: "What ideas can bring us closer together?"
 logo: 'assets/images/ben_shiny.jpg'
 favicon: 'assets/images/ben_shiny.jpg'
-baseurl: 'https://www.benburke.org'
+baseurl: ''
+url: www.benburke.org
 include: ["_pages"]
 permalink: /:title/
 
