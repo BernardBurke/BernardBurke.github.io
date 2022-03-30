@@ -2,8 +2,8 @@
 layout: post
 title: "Instinct At Work"
 author: Ben
-categories: [ ecology, economy, human development, psychology, epistemology  ]
-tags: [ ecology, economy, human development, psychology, epistemology  ]
+categories: [ epistemology  ]
+tags: [ epistemology  ]
 image: assets/images/sunrise and moonset.jpg
 #image: https://source.unsplash.com/random
 Description: "Instinct At Work"

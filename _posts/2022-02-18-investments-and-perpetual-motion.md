@@ -2,7 +2,7 @@
 layout: post
 title: "Investments And Perpetual Motion"
 author: Ben
-categories: [ ecology, economy, human development, physics, chemistry ]
+categories: [ ecology, economy, physics, chemistry ]
 tags: [ ecology, economy, human development, physics, chemistry ]
 image: assets/images/marge nfts.jpg
 #image: https://source.unsplash.com/random
