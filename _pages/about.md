@@ -2,7 +2,7 @@
 layout: page
 title: Ben is an relic from the green screen age of computing
 permalink: /about
-comments: true
+comments: false
 ---
 
 <div class="row justify-content-between">
