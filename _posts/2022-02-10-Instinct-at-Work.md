@@ -7,7 +7,7 @@ tags: [ epistemology  ]
 image: assets/images/sunrise and moonset.jpg
 #image: https://source.unsplash.com/random
 Description: "Instinct At Work"
-featured: true
+featured: 
 hidden:
 rating:
 comments: false 

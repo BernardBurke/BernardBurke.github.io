@@ -7,7 +7,7 @@ tags: [  power, impermanence ]
 image: assets/images/flat tyre.jpg
 #image: https://source.unsplash.com/random
 Description: "Winners Are Losers"
-featured: True
+featured: false
 hidden:
 rating:
 comments: false 

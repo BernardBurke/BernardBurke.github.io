@@ -7,7 +7,7 @@ tags: [ identity, SSID, privacy ]
 #image: assets/images/girl_with_mirror_balloons.jpg
 image: https://picsum.photos/200/300
 Description: "Why There Are No Comments On This Site"
-featured: 
+featured: true
 hidden:
 rating:
 comments: false 
