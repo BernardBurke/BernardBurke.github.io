@@ -38,8 +38,8 @@ echo "---" > $POSTS_FILENAME
 echo "layout: post" >> $POSTS_FILENAME
 echo "title: \""$post_title_words"\"" >> $POSTS_FILENAME
 echo "author: Ben" >> $POSTS_FILENAME
-echo "categories: [ coding, ecology, economy, human development, physics, chemistry ]" >> $POSTS_FILENAME
-echo "tags: [ coding, ecology, economy, human development, physics, chemistry ]" >> $POSTS_FILENAME
+echo "categories: [ ecology, economy, human development ]" >> $POSTS_FILENAME
+echo "tags: [ ecology, economy, human development ]" >> $POSTS_FILENAME
 echo "image: assets/images/girl_with_mirror_balloons.jpg" >> $POSTS_FILENAME
 echo "#image: "https://source.unsplash.com/random"" >> $POSTS_FILENAME
 echo "Description: \""$post_title_words"\"" >> $POSTS_FILENAME
