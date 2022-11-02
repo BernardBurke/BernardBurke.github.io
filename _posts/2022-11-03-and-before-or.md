@@ -18,10 +18,10 @@ We while away
 Dredging the mind for 
 Kind things to say
 
-What with they be
+What will they be
 That cheer us all on?
 How would we welcome
-What's here will be gone?
+What's here Will be Gone?
 
 Roots of the tree
 Bio Mimicry. 
