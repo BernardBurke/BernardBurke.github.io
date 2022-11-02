@@ -1,0 +1,60 @@
+---
+layout: post
+title: "And Before Or"
+author: Ben
+categories: [ language brain, Neti Neti  ]
+tags: [ Neti ]
+image: assets/images/Not_this_not_that.png
+Description: "And Before Or"
+featured: True
+hidden:
+rating:
+comments: false 
+---
+
+```
+Tick tick tick 
+We while away
+Dredging the mind for 
+Kind things to say
+
+What with they be
+That cheer us all on?
+How would we welcome
+What's here will be gone?
+
+Roots of the tree
+Bio Mimicry. 
+The Axiom land
+Is foundational sand.
+
+Before canyon's were Grand
+The Truth of the Land
+Was unity plural.
+Our language tried mural.
+And we named our Right Hand
+And chose Or over And
+
+When the Sandman comes and the mind monkeys rest
+They held out a message in ways to attest.
+
+It says - this.
+On the road to Neti Neti lore
+The first steps start with preference for Or.
+
+It can be mined and mind
+We can be fine for thine
+We can be water wine
+There is a formless spine
+
+So, says Sandthou - 
+"Next when your mind..
+Sees a judgement where experience Blind
+Place a foot on a Woken Core
+Kindly choose the preference Or"
+
+Inclusion means
+There is no Them
+Only Us.
+
+```
