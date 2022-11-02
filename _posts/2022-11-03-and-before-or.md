@@ -6,7 +6,7 @@ categories: [ language brain, Neti Neti  ]
 tags: [ Neti ]
 image: assets/images/Not_this_not_that.png
 Description: "And Before Or"
-featured: True
+featured: true
 hidden:
 rating:
 comments: false 
