@@ -160,6 +160,6 @@ I'm quoting Jean Reno from the final frames of the film Ronin.
 
 It's a bit of a Leap for me to jump from "this system looks entirely broken and unsustainable" through to Acceptance. 
 
-This is the duality I live in these days. 
+This is the duality I live in these days. Nevertheless...
 
 None of this makes me keen to become an Investor in the stock market sense.
