@@ -2,7 +2,7 @@
 layout: post
 title: "And Before Or"
 author: Ben
-categories: [ language brain, Neti Neti  ]
+categories: [ language ]
 tags: [ Neti ]
 image: assets/images/Not_this_not_that.png
 Description: "And Before Or"
