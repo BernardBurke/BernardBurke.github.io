@@ -2,8 +2,8 @@
 layout: post
 title: "And Before Or"
 author: Ben
-categories: [ language ]
-tags: [ Neti ]
+categories: [ human development ]
+tags: [ human development ]
 image: assets/images/Not_this_not_that.png
 Description: "And Before Or"
 featured: true
