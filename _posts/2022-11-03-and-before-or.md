@@ -35,10 +35,13 @@ Our language tried mural.
 And we named our Right Hand
 And chose Or over And
 
-When the Sandman comes and the mind monkeys rest
-They held out a message in ways to attest.
+When the Sandman comes 
+and the mind monkeys rest
+They held out a message
+in ways to attest.
 
 It says - this.
+
 On the road to Neti Neti lore
 The first steps start with preference for Or.
 
