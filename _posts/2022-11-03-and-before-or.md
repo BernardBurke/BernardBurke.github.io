@@ -42,8 +42,8 @@ in ways to attest.
 
 It says - this.
 
-On the road to Neti Neti lore
-The first steps start with preference for Or.
+On the road to Neti Neti land
+The first steps start with preference for And.
 
 It can be mined and mind
 We can be fine for thine
@@ -53,8 +53,8 @@ There is a formless spine
 So, says Sandthou - 
 "Next when your mind..
 Sees a judgement where experience Blind
-Place a foot on a Woken Core
-Kindly choose the preference Or"
+Place a foot on a Woken sand
+Kindly choose the preference And"
 
 Inclusion means
 There is no Them
