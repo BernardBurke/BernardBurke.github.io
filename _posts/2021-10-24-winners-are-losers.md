@@ -131,7 +131,7 @@ As I notice how deeply I rabbit-holed these points, let me try and return to Sub
 
 I'd like to tell you about the moment that my perspective on my Belief system started to change. It's another pop-culture reference.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ax2kP5xEiek?start=30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K0omu7x_LbU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
 
