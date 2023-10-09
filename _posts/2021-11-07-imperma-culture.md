@@ -172,7 +172,7 @@ The word, my friends is Nevertheless. The world is screwed up, but Nevertheless.
 
 I have indeed, got No Idea. Have you?
 
-<a title="No Eye Deer"><img width="512" alt="No Eye Deer" src='https://www.storytrender.com/wp-content/uploads/2018/05/6_CATERS_no_eyed_deer_001-768x970.jpg'></a>
+<a title="No Eye Deer"><img width="512" alt="No Eye Deer" src='../assets/images/no-eye-deer.png'></a>
 
 
 
